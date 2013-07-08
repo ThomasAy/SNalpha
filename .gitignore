@@ -2,3 +2,11 @@
 *build*
 *Build*
 *.autosave
+
+*.user
+
+*.user
+
+.DS_Store
+
+*.35e0e89
