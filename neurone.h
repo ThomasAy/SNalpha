@@ -16,8 +16,7 @@ class neurone
     
 public:
     neurone(double poids = 1);
-    //neurone(neurone const& copie);
-    //neurone& operator=(neurone const& a_copier);
+
     virtual ~neurone();
 
     virtual bool est_entree() const = 0;
@@ -56,8 +55,15 @@ public:
         QVector<neurone *> vrais_neurones;
         for (int i = 0; neurones_derives.size(); i++)
         {
-            neurone* temp = dynamic_cast<neurone *>(neurones_derives.at(i));
-            vrais_neurones.append(temp);
+            try
+            {
+                neurone* temp = dynamic_cast<neurone *>(neurones_derives.at(i));
+                vrais_neurones.append(temp);
+            }
+            catch (const std::exception& e)
+            {
+                std::cerr << e.what();
+            }
         }
         return vrais_neurones;
     };
@@ -105,8 +111,15 @@ public:
         QVector<neurone *> vrais_neurones;
         for (int i = 0; neurones_derives.size(); i++)
         {
-            neurone* temp = dynamic_cast<neurone *>(neurones_derives.at(i));
-            vrais_neurones.append(temp);
+            try
+            {
+                neurone* temp = dynamic_cast<neurone *>(neurones_derives.at(i));
+                vrais_neurones.append(temp);
+            }
+            catch (const std::exception& e)
+            {
+                std::cerr << e.what();
+            }
         }
         return vrais_neurones;
     };
