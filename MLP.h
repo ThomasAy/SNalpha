@@ -10,8 +10,6 @@ class MLP
 public:
     MLP(quint8 nb_entrees, quint8 nb_caches, quint8 nb_parccachee, quint8 nb_sorties);
     ~MLP();
-    //MLP(MLP const& copie);
-    //MLP& operator=(MLP const& a_copier);
     
     QVector<double> valeur(QVector<double> valeur_entrees);
     
