@@ -1,0 +1,143 @@
+TSNalpha
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005175522400000000000000AA
+t1366643236
+s170
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o
+t2
+s0
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/SNalpha.LinkFileList
+c0000000051D9E4CC000000000000026C
+t1373234380
+s620
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/moc_window.o
+t2
+s0
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.o
+t2
+s0
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha
+t2
+s0
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp
+c0000000051D9E16500000000000004B2
+t1373233509
+s1202
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.h
+c0000000051D9B9CF000000000000022B
+t1373223375
+s555
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/SNalpha/main.cpp
+c0000000051D9E4140000000000000120
+t1373234196
+s288
+i<iostream>
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp
+c0000000051D9E3E500000000000001FC
+t1373234149
+s508
+i<iostream>
+i"neurone.h"
+i"MLP.h"
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/moc_window.cpp
+c0000000051D9DD0E00000000000009B5
+t1373232398
+s2485
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp
+c0000000051D9E28B000000000000106E
+t1373233803
+s4206
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.h
+c0000000051D9DD0C0000000000000B88
+t1373232396
+s2952
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/SNalpha/main.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/moc_window.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdcf3cc4c1c8ab741^57cfe54c1c8ab741^---0#1#0#--18"Check dependencies36"07860EF0-4C53-4D62-8BA9-6DB0133B7EA4-
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s394927180.936551
+e394927184.403590
+r0
+xCompileC
+xDerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o
+x/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp:1:
+o/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.h:4:10: fatal error: 'QVector' file not found
+o#include <QVector>
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp36e4ef4c1c8ab741^e16067501c8ab741^-232"In file included from /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp:1:/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.h:4:10: fatal error: 'QVector' file not found#include <QVector>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"'QVector' file not found-394927184#18446744073709551615#0#1(2@82"In file included from /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp:1:-394927184#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp0000000000000000^0#9#0#9#9#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@71"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.h0000000000000000^3#9#3#9#76#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@73"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp0000000000000000^3221"CompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o MLP.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lhenriquez/Documents/Programmation/SNalpha    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-generated-files.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-own-target-headers.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-all-target-headers.hmap -iquote /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-project-headers.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources/x86_64 -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources -F/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug -MMD -MT dependencies -MF /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.d --serialize-diagnostics /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.dia -c /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp -o /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o36"0C37DC8B-C58E-4D88-BA14-5ED8CCB25883-
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o /Users/lhenriquez/Documents/Programmation/SNalpha/SNalpha/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s394927180.936339
+e394927184.404225
+r0
+xCompileC
+xDerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o
+x/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp:2:
+o/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.h:4:10: fatal error: 'QVector' file not found
+o#include <QVector>
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/lhenriquez/Documents/Programmation/SNalpha/main.cppfdddef4c1c8ab741^528167501c8ab741^-237"In file included from /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp:2:/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.h:4:10: fatal error: 'QVector' file not found#include <QVector>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"'QVector' file not found-394927184#18446744073709551615#0#1(2@83"In file included from /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp:2:-394927184#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp0000000000000000^1#9#1#9#29#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@75"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.h0000000000000000^3#9#3#9#84#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@74"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp0000000000000000^3227"CompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lhenriquez/Documents/Programmation/SNalpha    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-generated-files.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-own-target-headers.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-all-target-headers.hmap -iquote /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-project-headers.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources/x86_64 -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources -F/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug -MMD -MT dependencies -MF /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.dia -c /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp -o /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o36"CF6EE469-2F8E-4BF4-A828-907974E7369B-
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/moc_window.o /Users/lhenriquez/Documents/Programmation/SNalpha/moc_window.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.o /Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha normal x86_64
+r0
+

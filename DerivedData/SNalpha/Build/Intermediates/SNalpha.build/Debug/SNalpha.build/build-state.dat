@@ -1,0 +1,395 @@
+TSNalpha
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/Info.plist Info.plist
+cPhaseScriptExecution "Qt Qmake" /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-D7BA7D76DAB5DD13389D6332.sh
+cPhaseScriptExecution "Qt Preprocessors" /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-A0A52A2ADF7A1E2A99738674.sh
+cCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.o /Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/MacOS/SNalpha normal x86_64
+cTouch /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005175522400000000000000AA
+t1366643236
+s170
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c00000000503A11E8000000000001A480
+t1345982952
+s107648
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005158E6B0000000000002DAD0
+t1364780720
+s187088
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qalgorithms.h
+c0000000051D17E460000000000004031
+t1372683846
+s16433
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qarraydata.h
+c0000000051D17E46000000000000394F
+t1372683846
+s14671
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qatomic.h
+c0000000051D17E460000000000001B21
+t1372683846
+s6945
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qatomic_x86.h
+c0000000051D17E460000000000003B4A
+t1372683846
+s15178
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qbasicatomic.h
+c0000000051D17E470000000000002E0E
+t1372683847
+s11790
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qcompilerdetection.h
+c0000000051D17E470000000000007188
+t1372683847
+s29064
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qconfig.h
+c0000000051D17E47000000000000105E
+t1372683847
+s4190
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qfeatures.h
+c0000000051D17E480000000000003FC4
+t1372683848
+s16324
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qflags.h
+c0000000051D17E48000000000000171A
+t1372683848
+s5914
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qgenericatomic.h
+c0000000051D17E4800000000000022F0
+t1372683848
+s8944
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qglobal.h
+c0000000051D17E4800000000000095A9
+t1372683848
+s38313
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qiterator.h
+c0000000051D17E4900000000000022A1
+t1372683849
+s8865
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qlist.h
+c0000000051D17E4900000000000074B8
+t1372683849
+s29880
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qlogging.h
+c0000000051D17E490000000000001769
+t1372683849
+s5993
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qprocessordetection.h
+c0000000051D17E4B000000000000273E
+t1372683851
+s10046
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qrefcount.h
+c0000000051D17E4C0000000000000DB6
+t1372683852
+s3510
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qsysinfo.h
+c0000000051D17E4C00000000000011A0
+t1372683852
+s4512
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qsystemdetection.h
+c0000000051D17E4C0000000000001A79
+t1372683852
+s6777
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qtypeinfo.h
+c0000000051D17E4D0000000000001CC1
+t1372683853
+s7361
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/include/QtCore/qtypetraits.h
+c0000000051D17E4D0000000000005031
+t1372683853
+s20529
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/lib/QtCore.framework/QtCore
+c0000000051D17EF60000000000527BB4
+t1372684022
+s5405620
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/../../../Qt5.0.2/5.0.2/clang_64/lib/QtGui.framework/QtGui
+c0000000051D17EF600000000004018D0
+t1372684022
+s4200656
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o
+t1373268708
+s157496
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/SNalpha.LinkFileList
+c0000000051DA60AC00000000000001CD
+t1373266092
+s461
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o
+t1373267895
+s94252
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/moc_window.o
+t2
+s0
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.o
+t1373268577
+s167580
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/qvector.o
+t1373234601
+s1796
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-A0A52A2ADF7A1E2A99738674.sh
+c0000000051D9E5A7000000000000006B
+t1373234599
+s107
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-D7BA7D76DAB5DD13389D6332.sh
+c0000000051D9E5A7000000000000006A
+t1373234599
+s106
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha
+t2
+s0
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app
+t1373268709
+s102
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/Info.plist
+t1373234599
+s1014
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/MacOS/SNalpha
+t1373268709
+s41096
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/PkgInfo
+t1373234599
+s8
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp
+c0000000051DA6AE20000000000000815
+t1373268706
+s2069
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.h
+c0000000051DA64E80000000000000247
+t1373267176
+s583
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/QVector
+c0000000051D17E210000000000000015
+t1372683809
+s21
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/SNalpha/main.cpp
+c0000000051D9E4140000000000000120
+t1373234196
+s288
+i<iostream>
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp
+c0000000051DA6AF70000000000000205
+t1373268727
+s517
+i<iostream>
+i"neurone.h"
+i"MLP.h"
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/moc_window.cpp
+c0000000051D9DD0E00000000000009B5
+t1373232398
+s2485
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp
+c0000000051DA6A5E0000000000001162
+t1373268574
+s4450
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.h
+c0000000051DA64E80000000000000B62
+t1373267176
+s2914
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/qvector.cpp
+c0000000051D17D120000000000006C07
+t1372683538
+s27655
+
+N/Users/lhenriquez/Documents/Programmation/SNalpha/qvector.h
+c0000000051D17E4D0000000000006439
+t1372683853
+s25657
+
+NInfo.plist
+c0000000051D9E5A40000000000000290
+t1373234596
+s656
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/SNalpha/main.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/moc_window.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp
+r0
+
+CBuild AST from /Users/lhenriquez/Documents/Programmation/SNalpha/qvector.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesaeb9c377a28ab741^2104c477a28ab741^---0#1#0#--18"Check dependencies36"784A4C74-70E9-4490-8712-E85F08F0FD4C-
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s394961507.929109
+e394961508.947557
+r1
+xCompileC
+xDerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o
+x/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp:3:54: warning: unused parameter 'nb_parccachee' [-Wunused-parameter]
+oMLP::MLP(quint8 nb_entrees, quint8 nb_caches, quint8 nb_parccachee, quint8 nb_sorties)
+o                                                     ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cppef01ee63a28ab741^89b3f264a28ab741^-290"/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp:3:54: warning: unused parameter 'nb_parccachee' [-Wunused-parameter]MLP::MLP(quint8 nb_entrees, quint8 nb_caches, quint8 nb_parccachee, quint8 nb_sorties)                                                     ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@32"Unused parameter 'nb_parccachee'-394961508#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp0000000000000000^2#53#2#53#71#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@73"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp0000000000000000^3049"CompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o MLP.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lhenriquez/Documents/Programmation/SNalpha    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/include -I. -I../../../Qt5.0.2/5.0.2/clang_64/include -I../../../Qt5.0.2/5.0.2/clang_64/include/QtGui -I../../../Qt5.0.2/5.0.2/clang_64/lib/QtGui.framework/Versions/5/Headers -I../../../Qt5.0.2/5.0.2/clang_64/include/QtCore -I../../../Qt5.0.2/5.0.2/clang_64/lib/QtCore.framework/Versions/5/Headers -I. -I/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers -I/System/Library/Frameworks/AGL.framework/Headers -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I../../../Qt5.0.2/5.0.2/clang_64/mkspecs/macx-xcode -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources/x86_64 -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources -F/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib -pipe -mmacosx-version-min=10.6 -O2 -Wall -W -fPIE -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.d --serialize-diagnostics /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.dia -c /Users/lhenriquez/Documents/Programmation/SNalpha/MLP.cpp -o /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/MLP.o36"40A29F9C-D46D-477B-8BFF-01B64EF2351B-
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o /Users/lhenriquez/Documents/Programmation/SNalpha/SNalpha/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s394961528.303115
+e394961529.119310
+r1
+xCompileC
+xDerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o
+x/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp:5:14: warning: unused parameter 'argc' [-Wunused-parameter]
+oint main(int argc, char *argv[])
+o             ^
+o/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp:5:26: warning: unused parameter 'argv' [-Wunused-parameter]
+oint main(int argc, char *argv[])
+o                         ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp1ac24d78a28ab741^9ca31e79a28ab741^-368"/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp:5:14: warning: unused parameter 'argc' [-Wunused-parameter]int main(int argc, char *argv[])             ^/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp:5:26: warning: unused parameter 'argv' [-Wunused-parameter]int main(int argc, char *argv[])                         ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@23"Unused parameter 'argc'-394961529#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp0000000000000000^4#13#4#13#72#0#14"Semantic Issue--2@23"Unused parameter 'argv'-394961529#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp0000000000000000^4#25#4#25#84#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@74"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp0000000000000000^3055"CompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lhenriquez/Documents/Programmation/SNalpha    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/include -I. -I../../../Qt5.0.2/5.0.2/clang_64/include -I../../../Qt5.0.2/5.0.2/clang_64/include/QtGui -I../../../Qt5.0.2/5.0.2/clang_64/lib/QtGui.framework/Versions/5/Headers -I../../../Qt5.0.2/5.0.2/clang_64/include/QtCore -I../../../Qt5.0.2/5.0.2/clang_64/lib/QtCore.framework/Versions/5/Headers -I. -I/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers -I/System/Library/Frameworks/AGL.framework/Headers -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I../../../Qt5.0.2/5.0.2/clang_64/mkspecs/macx-xcode -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources/x86_64 -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources -F/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib -pipe -mmacosx-version-min=10.6 -O2 -Wall -W -fPIE -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.dia -c /Users/lhenriquez/Documents/Programmation/SNalpha/main.cpp -o /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/main.o36"8576F428-CC38-44D4-89B1-AACAAF212302-
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/moc_window.o /Users/lhenriquez/Documents/Programmation/SNalpha/moc_window.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.o /Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s394961375.246084
+e394961377.283297
+r1
+xCompileC
+xDerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.o
+x/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp18223fdfa18ab741^8c8648e1a18ab741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp0000000000000000^3073"CompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.o neurone.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lhenriquez/Documents/Programmation/SNalpha    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/include -I. -I../../../Qt5.0.2/5.0.2/clang_64/include -I../../../Qt5.0.2/5.0.2/clang_64/include/QtGui -I../../../Qt5.0.2/5.0.2/clang_64/lib/QtGui.framework/Versions/5/Headers -I../../../Qt5.0.2/5.0.2/clang_64/include/QtCore -I../../../Qt5.0.2/5.0.2/clang_64/lib/QtCore.framework/Versions/5/Headers -I. -I/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers -I/System/Library/Frameworks/AGL.framework/Headers -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I../../../Qt5.0.2/5.0.2/clang_64/mkspecs/macx-xcode -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources/x86_64 -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources -F/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib -pipe -mmacosx-version-min=10.6 -O2 -Wall -W -fPIE -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.d --serialize-diagnostics /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.dia -c /Users/lhenriquez/Documents/Programmation/SNalpha/neurone.cpp -o /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/neurone.o36"59F7A00A-B80D-4BDD-91F0-B0CE0130EF1E-
+
+CCompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/qvector.o /Users/lhenriquez/Documents/Programmation/SNalpha/qvector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s394927401.743834
+e394927401.877314
+r1
+xCompileC
+xDerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/qvector.o
+x/Users/lhenriquez/Documents/Programmation/SNalpha/qvector.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/lhenriquez/Documents/Programmation/SNalpha/qvector.cpp5514cb291d8ab741^5c54e3291d8ab741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/qvector.cpp0000000000000000^3073"CompileC DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/qvector.o qvector.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lhenriquez/Documents/Programmation/SNalpha    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha.hmap -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/include -I. -I../../../Qt5.0.2/5.0.2/clang_64/include -I../../../Qt5.0.2/5.0.2/clang_64/include/QtGui -I../../../Qt5.0.2/5.0.2/clang_64/lib/QtGui.framework/Versions/5/Headers -I../../../Qt5.0.2/5.0.2/clang_64/include/QtCore -I../../../Qt5.0.2/5.0.2/clang_64/lib/QtCore.framework/Versions/5/Headers -I. -I/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers -I/System/Library/Frameworks/AGL.framework/Headers -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I../../../Qt5.0.2/5.0.2/clang_64/mkspecs/macx-xcode -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources/x86_64 -I/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources -F/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib -pipe -mmacosx-version-min=10.6 -O2 -Wall -W -fPIE -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/qvector.d --serialize-diagnostics /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/qvector.dia -c /Users/lhenriquez/Documents/Programmation/SNalpha/qvector.cpp -o /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/qvector.o36"CF127CAF-9499-4081-98B6-E0F907883E43-
+
+CLd /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha normal x86_64
+r0
+
+CLd /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/MacOS/SNalpha normal x86_64
+s394961529.126300
+e394961529.173574
+r1
+xLd
+x/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/MacOS/SNalpha
+xnormal
+xx86_64
+old: warning: directory not found for option '-F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib'
+old: warning: directory not found for option '-F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/MacOS/SNalphafc702079a28ab741^137f2c79a28ab741^-200"ld: warning: directory not found for option '-F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib'ld: warning: directory not found for option '-F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib'2(21%IDEActivityLogMessage2@86"Directory not found for option '-F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib'-394961529#0#100#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@86"Directory not found for option '-F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib'-394961529#100#100#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1155"Ld DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/MacOS/SNalpha normal x86_64    cd /Users/lhenriquez/Documents/Programmation/SNalpha    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -L/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug -L/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -L/System/Library/Frameworks -F/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib -filelist /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/SNalpha.LinkFileList -headerpad_max_install_names -mmacosx-version-min=10.6 -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib -framework QtGui -framework QtCore -framework OpenGL -framework AGL -o /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/MacOS/SNalpha36"E4A98F18-FBC8-4CD4-A77E-BFB08F3B79A3-
+
+CPhaseScriptExecution "Qt Preprocessors" /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-A0A52A2ADF7A1E2A99738674.sh
+s394961528.256015
+e394961528.295087
+r1
+xPhaseScriptExecution
+xQt Preprocessors
+x/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-A0A52A2ADF7A1E2A99738674.sh
+omake: Nothing to be done for `preprocess'.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Run custom shell script 'Qt Preprocessors'1af74278a28ab741^1e8d4b78a28ab741^-43"make: Nothing to be done for `preprocess'.1(21%IDEActivityLogMessage2@43"make: Nothing to be done for `preprocess'.-394961528#0#43#-0#-----0#0#0#--21098"PhaseScriptExecution "Qt Preprocessors" DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-A0A52A2ADF7A1E2A99738674.sh    cd /Users/lhenriquez/Documents/Programmation/SNalpha    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER LHenriquez    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS x86_64    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products    setenv BUILD_ROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug    setenv CACHE_ROOT /var/folders/3m/20cfdfz516g1zn77lpnnn7cr0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/3m/20cfdfz516g1zn77lpnnn7cr0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/3m/20cfdfz516g1zn77lpnnn7cr0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug    setenv CONFIGURATION_TEMP_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug    setenv CONTENTS_FOLDER_PATH SNalpha.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH x86_64    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH SNalpha.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/SNalpha.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME SNalpha.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug    setenv EMBEDDED_PROFILE_NAME embedded.provisionprofile    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH SNalpha.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH SNalpha.app/Contents/MacOS    setenv EXECUTABLE_NAME SNalpha    setenv EXECUTABLE_PATH SNalpha.app/Contents/MacOS/SNalpha    setenv FILE_LIST /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH SNalpha.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug\" /Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib /Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME SNalpha.app    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/include\" . ../../../Qt5.0.2/5.0.2/clang_64/include ../../../Qt5.0.2/5.0.2/clang_64/include/QtGui ../../../Qt5.0.2/5.0.2/clang_64/lib/QtGui.framework/Versions/5/Headers ../../../Qt5.0.2/5.0.2/clang_64/include/QtCore ../../../Qt5.0.2/5.0.2/clang_64/lib/QtCore.framework/Versions/5/Headers . /System/Library/Frameworks/OpenGL.framework/Versions/A/Headers /System/Library/Frameworks/AGL.framework/Headers /usr/local/include /System/Library/Frameworks/CarbonCore.framework/Headers ../../../Qt5.0.2/5.0.2/clang_64/mkspecs/macx-xcode"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH SNalpha.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH SNalpha.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/SNalpha.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER LHenriquez    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/SNalpha.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH SNalpha.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-LinkMap-normal-x86_64.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug\" /Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib /System/Library/Frameworks/"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_x86_64 /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/SNalpha.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH SNalpha.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12D78    setenv MAC_OS_X_VERSION_ACTUAL 1083    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0803    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal    setenv OBJROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-pipe -mmacosx-version-min=10.6 -O2 -Wall -W -fPIE -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB"    setenv OTHER_CPLUSPLUSFLAGS "-pipe -mmacosx-version-min=10.6 -O2 -Wall -W -fPIE -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB"    setenv OTHER_LDFLAGS "-headerpad_max_install_names -mmacosx-version-min=10.6 -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH SNalpha.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/PkgInfo    setenv PKGINFO_PATH SNalpha.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform    setenv PLATFORM_NAME macosx    setenv PLATFORM_PREFERRED_ARCH x86_64    setenv PLATFORM_PRODUCT_BUILD_VERSION 4H1003    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH SNalpha.app/Contents/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH SNalpha.app/Contents/PrivateHeaders    setenv PRODUCT_NAME SNalpha    setenv PRODUCT_SETTINGS_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT SNalpha    setenv PROJECT_DERIVED_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/DerivedSources    setenv PROJECT_DIR /Users/lhenriquez/Documents/Programmation/SNalpha    setenv PROJECT_FILE_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/SNalpha.xcodeproj    setenv PROJECT_NAME SNalpha    setenv PROJECT_TEMP_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build    setenv PROJECT_TEMP_ROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates    setenv PUBLIC_HEADERS_FOLDER_PATH SNalpha.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH SNalpha.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SDK_PRODUCT_BUILD_VERSION 12D78    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH SNalpha.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH SNalpha.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/lhenriquez/Documents/Programmation/SNalpha    setenv SRCROOT /Users/lhenriquez/Documents/Programmation/SNalpha    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_PLATFORMS macosx    setenv SYMROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME SNalpha    setenv TARGET_BUILD_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug    setenv TARGET_NAME SNalpha    setenv TARGET_TEMP_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build    setenv TEMP_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build    setenv TEMP_FILES_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build    setenv TEMP_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build    setenv TEMP_ROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH SNalpha.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER LHenriquez    setenv USER_APPS_DIR /Users/lhenriquez/Applications    setenv USER_LIBRARY_DIR /Users/lhenriquez/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH SNalpha.app/Contents/version.plist    setenv VERSION_INFO_BUILDER LHenriquez    setenv VERSION_INFO_FILE SNalpha_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:SNalpha  PROJECT:SNalpha-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME SNalpha.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H1003    setenv XCODE_VERSION_ACTUAL 0462    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-A0A52A2ADF7A1E2A99738674.sh36"35217577-E7BA-47C4-9000-924E790C0E09-
+
+CPhaseScriptExecution "Qt Qmake" /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-D7BA7D76DAB5DD13389D6332.sh
+s394961527.780172
+e394961528.248005
+r1
+xPhaseScriptExecution
+xQt Qmake
+x/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-D7BA7D76DAB5DD13389D6332.sh
+o/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/bin/qmake -spec macx-xcode -o SNalpha.xcodeproj/project.pbxproj SNalpha.pro
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Run custom shell script 'Qt Qmake'52f0c877a28ab741^30a03f78a28ab741^-117"/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/bin/qmake -spec macx-xcode -o SNalpha.xcodeproj/project.pbxproj SNalpha.pro1(21%IDEActivityLogMessage2@117"/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/bin/qmake -spec macx-xcode -o SNalpha.xcodeproj/project.pbxproj SNalpha.pro-394961527#0#117#-0#-----0#0#0#--21090"PhaseScriptExecution "Qt Qmake" DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-D7BA7D76DAB5DD13389D6332.sh    cd /Users/lhenriquez/Documents/Programmation/SNalpha    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER LHenriquez    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS x86_64    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products    setenv BUILD_ROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug    setenv CACHE_ROOT /var/folders/3m/20cfdfz516g1zn77lpnnn7cr0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/3m/20cfdfz516g1zn77lpnnn7cr0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/3m/20cfdfz516g1zn77lpnnn7cr0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug    setenv CONFIGURATION_TEMP_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug    setenv CONTENTS_FOLDER_PATH SNalpha.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH x86_64    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH SNalpha.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/SNalpha.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME SNalpha.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug    setenv EMBEDDED_PROFILE_NAME embedded.provisionprofile    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH SNalpha.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH SNalpha.app/Contents/MacOS    setenv EXECUTABLE_NAME SNalpha    setenv EXECUTABLE_PATH SNalpha.app/Contents/MacOS/SNalpha    setenv FILE_LIST /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH SNalpha.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug\" /Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib /Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME SNalpha.app    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/include\" . ../../../Qt5.0.2/5.0.2/clang_64/include ../../../Qt5.0.2/5.0.2/clang_64/include/QtGui ../../../Qt5.0.2/5.0.2/clang_64/lib/QtGui.framework/Versions/5/Headers ../../../Qt5.0.2/5.0.2/clang_64/include/QtCore ../../../Qt5.0.2/5.0.2/clang_64/lib/QtCore.framework/Versions/5/Headers . /System/Library/Frameworks/OpenGL.framework/Versions/A/Headers /System/Library/Frameworks/AGL.framework/Headers /usr/local/include /System/Library/Frameworks/CarbonCore.framework/Headers ../../../Qt5.0.2/5.0.2/clang_64/mkspecs/macx-xcode"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH SNalpha.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH SNalpha.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/SNalpha.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER LHenriquez    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/SNalpha.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH SNalpha.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/SNalpha-LinkMap-normal-x86_64.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug\" /Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib /System/Library/Frameworks/"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_x86_64 /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal/x86_64/SNalpha.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH SNalpha.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12D78    setenv MAC_OS_X_VERSION_ACTUAL 1083    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0803    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Objects-normal    setenv OBJROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-pipe -mmacosx-version-min=10.6 -O2 -Wall -W -fPIE -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB"    setenv OTHER_CPLUSPLUSFLAGS "-pipe -mmacosx-version-min=10.6 -O2 -Wall -W -fPIE -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB"    setenv OTHER_LDFLAGS "-headerpad_max_install_names -mmacosx-version-min=10.6 -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/lib -F/Users/lhenriquez/Qt5.0.2/5.0.2/clang_64/qtbase/lib"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH SNalpha.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/PkgInfo    setenv PKGINFO_PATH SNalpha.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform    setenv PLATFORM_NAME macosx    setenv PLATFORM_PREFERRED_ARCH x86_64    setenv PLATFORM_PRODUCT_BUILD_VERSION 4H1003    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH SNalpha.app/Contents/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH SNalpha.app/Contents/PrivateHeaders    setenv PRODUCT_NAME SNalpha    setenv PRODUCT_SETTINGS_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT SNalpha    setenv PROJECT_DERIVED_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/DerivedSources    setenv PROJECT_DIR /Users/lhenriquez/Documents/Programmation/SNalpha    setenv PROJECT_FILE_PATH /Users/lhenriquez/Documents/Programmation/SNalpha/SNalpha.xcodeproj    setenv PROJECT_NAME SNalpha    setenv PROJECT_TEMP_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build    setenv PROJECT_TEMP_ROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates    setenv PUBLIC_HEADERS_FOLDER_PATH SNalpha.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH SNalpha.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SDK_PRODUCT_BUILD_VERSION 12D78    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH SNalpha.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH SNalpha.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/lhenriquez/Documents/Programmation/SNalpha    setenv SRCROOT /Users/lhenriquez/Documents/Programmation/SNalpha    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_PLATFORMS macosx    setenv SYMROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME SNalpha    setenv TARGET_BUILD_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug    setenv TARGET_NAME SNalpha    setenv TARGET_TEMP_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build    setenv TEMP_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build    setenv TEMP_FILES_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build    setenv TEMP_FILE_DIR /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build    setenv TEMP_ROOT /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH SNalpha.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER LHenriquez    setenv USER_APPS_DIR /Users/lhenriquez/Applications    setenv USER_LIBRARY_DIR /Users/lhenriquez/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH SNalpha.app/Contents/version.plist    setenv VERSION_INFO_BUILDER LHenriquez    setenv VERSION_INFO_FILE SNalpha_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:SNalpha  PROJECT:SNalpha-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME SNalpha.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H1003    setenv XCODE_VERSION_ACTUAL 0462    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Intermediates/SNalpha.build/Debug/SNalpha.build/Script-D7BA7D76DAB5DD13389D6332.sh36"6AC408A2-A6E3-492C-9F2D-057B3CAA3283-
+
+CProcessInfoPlistFile /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/Info.plist Info.plist
+s394927399.153732
+e394927399.203129
+r1
+xProcessInfoPlistFile
+x/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistc0962f271d8ab741^ee2234271d8ab741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/lhenriquez/Documents/Programmation/SNalpha/Info.plist0000000000000000^498"ProcessInfoPlistFile DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/Info.plist Info.plist    cd /Users/lhenriquez/Documents/Programmation/SNalpha    builtin-infoPlistUtility Info.plist -genpkginfo /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app/Contents/Info.plist36"077CE4FD-4A0F-4BB2-83B1-562E693038BA-
+
+CTouch /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app
+s394961529.181587
+e394961529.193459
+r1
+xTouch
+x/Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app60922e79a28ab741^f0853179a28ab741^---0#0#0#--241"Touch DerivedData/SNalpha/Build/Products/Debug/SNalpha.app    cd /Users/lhenriquez/Documents/Programmation/SNalpha    /usr/bin/touch -c /Users/lhenriquez/Documents/Programmation/SNalpha/DerivedData/SNalpha/Build/Products/Debug/SNalpha.app36"AFC7298D-26AA-4580-B988-0AF3A9148BCB-
+
